@@ -15,8 +15,9 @@
   - 👨‍💻 I’m Flutter Developer. 
  
 <br />  
-<br>
+<br> 
+![GitHub Logo](/http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff/logo.png)
 ### Languages and Tools 🛠   
-(http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
+
 
 
