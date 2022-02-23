@@ -5,10 +5,9 @@
  <p align="center">
     <a href="https://www.linkedin.com/in/ahmed-khalid-5774b7221/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a> 
- <br>
     <a href="https://www.instagram.com/a7med_khaled_22/" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  
+  <a href="Ahmedokab2411@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
  
  
