@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" /></a> 
     <a href="https://www.instagram.com/a7med_khaled_22/" alt="Instagram">
         <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://mail.google.com/mail/u/0/?tab=km#inbox" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+
 </p>
  
  
