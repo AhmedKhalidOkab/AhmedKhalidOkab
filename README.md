@@ -1,6 +1,11 @@
 <p> <H1  align="center">Hi,I'm Ahmed Khalid <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /></H1>  </p>
  
 
+ - 👨‍💻 I’m Flutter Developer. 
+<br>
+ <br> 
+ 
+ <h3 align="left">Connect with me:</h3> 
  <p align="center"> 
     <a href="https://www.linkedin.com/in/ahmed-khalid-5774b7221/" alt="LinkedIn"> 
      <img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />
@@ -10,11 +15,7 @@
  </a>
 
 </p> 
-<br>
- <br> 
- 
- <h3 align="left">Connect with me:</h3>
-  - 👨‍💻 I’m Flutter Developer. 
+  
  
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> 
 
