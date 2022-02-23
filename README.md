@@ -1,6 +1,8 @@
 <H1>Hi,I'm Ahmed Khalid 👋</H1> 
 
-
+ 
+  - 👨‍💻 I’m Fluuter Developer. 
+  - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 
 
