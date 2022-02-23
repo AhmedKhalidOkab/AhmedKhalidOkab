@@ -1,4 +1,4 @@
-<p align="center"> <H1>Hi,I'm Ahmed Khalid <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /></H1>  </p>
+<p> <H1  align="center">Hi,I'm Ahmed Khalid <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /></H1>  </p>
  
 
  <p align="center"> 
