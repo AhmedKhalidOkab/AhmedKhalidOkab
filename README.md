@@ -11,7 +11,9 @@
 
 </p> 
 <br>
- <br>
+ <br> 
+ 
+ <h3 align="left">Connect with me:</h3>
   - 👨‍💻 I’m Flutter Developer. 
  
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" /> 
