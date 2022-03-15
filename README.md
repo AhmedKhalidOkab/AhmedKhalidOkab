@@ -3,7 +3,7 @@
 
  - 👨‍💻 I’m Flutter Developer. 
  - Faculty of computer science
-<br>
+
  <h3 align="left">Connect with me:</h3> 
  <p align="center"> 
     <a href="https://www.linkedin.com/in/ahmed-khalid-5774b7221/" alt="LinkedIn"> 
