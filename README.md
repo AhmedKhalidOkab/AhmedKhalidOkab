@@ -2,6 +2,7 @@
  
 
  - 👨‍💻 I’m Flutter Developer. 
+ - Faculty of computer science
 <br>
  <br> 
  
