@@ -1,7 +1,7 @@
 <p> <H1  align="center">Hi,I'm Ahmed Khalid Okab </H1>  </p>
  
 # 💫 About Me:
-👨‍💻 I’m Flutter Developer.<br>🔭 Faculty of computer science<br>🌱 I’m currently learning More advanced topics  <br>💬 Ask me about Coding<br>⚡ Fun fact
+👨‍💻 I’m Flutter Developer.<br>🔭 Faculty of computer science<br>🌱 I’m currently learning More advanced topics  <br>💬 Ask me about Coding<br>
 
 
 ## 🌐 Socials:
